@@ -1,0 +1,7 @@
+print("== Digite 4 numeros para saber suas medias ==")
+a = int(input("= "))
+b = int(input("= "))
+c = int(input("= "))
+d = int(input("= "))
+index = (a*1 + b*2 + c*3 + d*4) / (1 + 2 + 3 + 4)
+print("## %.1f" % index)
