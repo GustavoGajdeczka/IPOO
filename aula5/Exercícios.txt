@@ -1,0 +1,57 @@
+1 - Faça um programa que leia quatro números informados pelo usuário e que depois imprima a média ponderada, sabendo-se
+que os pesos são respectivamente: 1, 2, 3 e 4:
+
+2 - Em épocas de pouco dinheiro, os comerciantes estão procurando aumentar suas vendas oferecendo desconto. Faça um
+programa que possa receber um valor de um produto e um valor de desconto. Calcule e imprima o novo valor do produto.
+
+3 - Faça um programa que calcule as raízes de ax²+bx+c, pressupondo que seu delta sempre será positivo e sempre terá uma raiz
+exata.
+
+4 - Uma pessoa resolveu fazer uma aplicação em uma poupança programada. Para calcular seu rendimento, ela deverá fornecer
+o valor constante da aplicação mensal, a taxa e o número de meses. Sabendo-se que a fórmula usada para este cálculo é:
+Valor acumulado = onde: i = taxa, P = aplicação mensal e n= número de meses
+
+5 - Faça um programa que calcule o valor em Reais, correspondente aos dólares que um turista possui no cofre do hotel. O
+programa deve solicitar os seguintes dados: Quantidade de dólares guardados no cofre e cotação do dólar naquele dia.
+
+6 - A Loja Mamão com Açúcar está vendendo seus produtos em 5 (cinco) prestações sem juros. Faça um programa que receba um
+valor de uma compra e mostre o valor das prestações.
+
+7 - Faça um programa que receba o preço de custo de um produto e mostre o valor de venda. Sabe-se que o preço de custo
+receberá um acréscimo de acordo com um percentual informado pelo usuário.
+
+8 - O custo ao consumidor de um carro novo é a soma do custo de fábrica com a percentagem do distribuidor e dos impostos
+(aplicados, primeiro os impostos sobre o custo de fábrica, e depois a percentagem do distribuidor sobre o resultado). Supondo
+que a percentagem do distribuidor seja de 28% e os impostos 45%. Escrever um programa que leia o custo de fábrica de um carro
+e informe o custo ao consumidor do mesmo.
+
+9 - Faça um programa que apresente, para um salário informado pelo usuário, um novo salário com aumento de 37%.
+
+10 - Elabore um programa que leia do teclado uma quantidade de segundos e transforme este tempo em dias, horas e minutos.
+
+11 - Faça um programa que receba o ano de nascimento de uma pessoa e o ano atual, calcule e mostre:
+• A idade dessa pessoa;
+•Quantos anos ela terá em 2050.
+
+12 - Cada degrau de uma escada tem uma altura X. Faça um programa que receba essa altura e a altura que o usuário deseja
+alcançar subindo a escada. Calcule e mostre quantos degraus o usuário deverá subir para atingir seu objetivo.
+
+13 - Faça um programa que receba o peso e a altura de uma pessoa e calcule o índice de massa corpórea. Ele mede a relação entre
+peso e altura (peso em Kg, dividido pelo quadrado da altura em metros).
+
+14 - Um hotel deseja fazer uma promoção especial de final de semana, concedendo um desconto de 25% na diária para o final de
+semana. Sendo informados, através do teclado, o número de apartamentos do hotel e o valor por apartamento para o final de
+semana completo, elabore um programa para calcular:
+•Valor promocional da diária;
+•Valor total a ser arrecadado caso a ocupação neste final de semana atinja 100%;
+•Valor total a ser arrecadado caso a ocupação neste final de semana atinja 70%;
+•Valor que o hotel deixará de arrecadar em virtude da promoção, caso a ocupação atinja 100%.
+
+15 - Faça um programa que receba o custo de um espetáculo teatral e o preço do convite esse espetáculo. Esse programa deve
+calcular e mostrar:
+• A quantidade de convites que devem ser vendidos para que pelo menos o custo do espetáculo seja alcançado.
+• A quantidade de convites que devem ser vendidos para que se tenha um lucro de 23%.
+
+16 - Considerando uma eleição de apenas 2 candidatos, elabore um programa que leia do teclado o número total de eleitores, o
+número de votos do primeiro candidato e o número de votos do segundo candidato. Em seguida, o programa deverá apresentar
+o percentual de votos de cada um dos candidatos e o percentual de votos nulos.
