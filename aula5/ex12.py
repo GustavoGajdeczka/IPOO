@@ -1,0 +1,5 @@
+print("== Degrau ==")
+degrau = float(input("= Insira a altura do degrau: "))
+altura = float(input("= Insira a altura que deseja subir: "))
+escada = int(altura/degrau)
+print("## Você devera subir %d degraus " % escada)
