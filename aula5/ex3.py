@@ -6,9 +6,9 @@ c = float(input("Digite o valor de C: "))
 
 D = int (b**2) - (4*a*c)
 if D < 0:
-    print("delta é negativo")
+    print("## Delta é negativo")
 else:
     x1 = (-b + D**1/2) / (2*a)
     x2 = (-b - D**1/2) / (2*a)
-    print("# X1: ", x1)
-    print("# X2: ", x2)
+    print("## X1: ", x1)
+    print("## X2: ", x2)

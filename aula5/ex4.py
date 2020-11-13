@@ -6,4 +6,4 @@ m = float(input("= Insira o numero de meses: "))
 
 r = ((((1 + i)**m)-1) / i) * p
 
-print("# %.2f" % r)
+print("## %.2f" % r)
