@@ -1,0 +1,16 @@
+Exercício 1) Implemente um programa em Python para calcular e imprimir a média de 5 números
+digitados pelo usuário.
+
+Exercício 2) Implemente um programa em Python que pergunte o depósito inicial e a taxa de juros de
+uma poupança. Exiba os valores atualizados mês a mês para os 12 primeiros meses.
+Escreva o total ganho com juros no período.
+
+Exercício 3) Implemente um programa em Python em que o usuário entre com a idade de várias
+pessoas em anos e imprimir:
+- total de pessoas com menos de 18 anos;
+- total de pessoas com mais de 60 anos;
+- para finalizar o programa, deve-se entrar com idade igual a 0 (zero).
+
+Exercício 4) Suponha que Chico tem 1,50m de altura e cresce 2 centímetros por ano, enquanto Juca
+tem 1,10m de altura e cresce 3 centímetros por ano. Implemente um programa em Python que calcule e
+imprima quantos anos serão necessários para que Juca seja mais alto que Chico.
