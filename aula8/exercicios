@@ -1,0 +1,51 @@
+1. Inicializar um vetor de 10 inteiros com o valor zero e imprimir.
+
+2. Inicializar um vetor com os valores 1,2,3,4,5,6,7,8,9,10 e depois
+imprimir.
+
+3. Ler 5 inteiros do teclado e armazenar num vetor. Depois
+percorrer este vetor mostrando os números ímpares.
+
+4. Inicializar um vetor com valores 2, 4, 6, 8, 10. Calcular e
+imprimir a soma dos valores.
+
+5. Ler e armazenar num vetor 5 números float fornecidos pelo
+usuário e calcular a média dos valores.
+
+6. Dado os vetores A=[10, 11, 12, 13, 14, 15, 16,17] e B=[1, 2, 3,
+4, 5, 6, 7, 8], fazer um programa para somar os dois vetores e
+armazenar o resultado em um vetor C ( C[i]=A[i]+B[i] ).
+
+7. Escrever um programa que leia 5 números float e imprima-os
+em ordem inversa. 
+
+8. Faça um programa que leia duas listas e que gere uma terceira
+com os elementos das duas primeiras.
+
+9. Faça um programa que percorra duas listas e gere uma terceira
+sem elementos repetidos.
+
+10. Faça um programa de forma a realizar a mesma tarefa do
+exemplo localizado no slide 21, mas sem utilizar a variável
+achou. Dica: observe a condição de saída do while.
+
+11. Modifique o exemplo (slide 21) para pesquisar dois valores. Em
+vez de apenas p, leia outro valor v que também será procurado.
+Na impressão, indique qual dos dois valores foi achado primeiro.
+
+12. Modifique o exercício anterior de forma a pesquisar p e v em
+toda a lista e informando ao usuário a posição onde p e a posição
+onde v foram encontrados.
+
+13. Faça um programa para imprimir o menor elemento de uma lista.
+
+14. A lista de temperaturas de Mons, na Bélgica, foi armazenada na
+lista T = [-10, -8, 0, 1, 2, 3, -2, -4]. Faça um programa que
+imprima a menor e a maior temperatura, assim como a
+temperatura média.
+
+15. Modifique o programa do slide 32 para ordenar a lista em ordem
+decrescente. L=[2,1,5,4,3] deve ser ordenada como L=[5,4,3,2,1].
+
+16. Faça um programa que leia N valores inteiros, e depois
+apresente-os em ordem crescente.
