@@ -8,7 +8,7 @@ while index <= 10:
     A.append(int(randint(0, 10)))
     index += 1
 index = 0
-print(A)
+
 for a in A:
     if a == B:
         print("## %d achado na posição %d" % (a, index))

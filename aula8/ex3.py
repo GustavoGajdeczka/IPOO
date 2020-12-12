@@ -5,7 +5,6 @@ while index <= 4:
     vetor.append(int(input("= Insira um numero: ")))
     index += 1
 index = 0
-while index <= 4:
-    if vetor[index] % 2:
-        print("## ", vetor[index])
-    index += 1
+for index in vetor:
+    if index % 2:
+        print("## ", index)
