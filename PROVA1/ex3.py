@@ -1,3 +1,4 @@
+print("== Questão 3 ==")
 v = [ ]
 valor = int ( input("Digite valor (0 para fim): "))
 while (valor != 0):
