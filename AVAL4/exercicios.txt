@@ -1,0 +1,24 @@
+Exercício 1) (1 ponto)
+A área A de um círculo é calculada por: A = PI * (raio * raio), sendo PI=3,1415.
+Implemente uma classe chamada 'circulo' com o atributo 'raio' e método 'area'.
+O raio é informado pelo usuário e passado para o método construtor na criação do objeto.
+O método 'area' retorna a área do círculo.
+Crie um objeto da classe 'circulo' com raio fornecido pelo usuário, e informe a área do círculo
+chamando o método 'area'
+
+Exercício 2) (2 pontos)
+A área A de um triângulo é calculada por: A = (base * altura)/2.0.
+Implemente uma classe chamada 'triangulo' com os atributos 'base' e 'altura' e método 'area'.
+Base e altura são informadas pelo usuário e passadas para o método construtor na criação do objeto.
+O método 'area' retorna a área do triângulo.
+Crie dois objetos da classe 'triangulo' com base e altura fornecidas pelo usuário, e informe a área do
+triângulo maior.
+
+Exercício 3) (3 pontos)
+Implemente uma classe chamada 'aluno' com atributos nome, endereco e lista de notas (floats)
+Nome e endereço são fornecidos na criação do objeto
+Método setNota(float) recebe nota e insere na lista
+Método media() retorna a média das notas do aluno
+Método imprimeDados() imprime dados do aluno: nome, endereço e média das notas
+O programa deve pedir nome e endereço do aluno e criar um objeto com estes dados
+Em seguida, pede algumas notas e armazena-as, e mostra os dados (nome, endereço e média)
